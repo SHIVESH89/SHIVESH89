@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Shivesh Chakravarty 👋</h1>
 
 <p align="center">
-  CSE Data Science student | 3rd Year | AI & ML enthusiast | Python learner
+  CSE Data Science student • 3rd Year • AI & ML enthusiast • Python learner
 </p>
 
 ---
 
 ### About Me
 
-I’m Shivesh Chakravarty, a 3rd-year CSE Data Science student with a strong interest in AI, ML, Python, and data analysis.
+I’m Shivesh, a 3rd-year CSE Data Science student who enjoys learning by building.
 
-I enjoy learning by building, solving problems, and working with data to find useful patterns and insights.
+I spend a lot of my time with Python, data, and problem solving. I like understanding how things work, finding patterns in data, and turning ideas into something useful.
 
-### What I Work With
+### What I’m Comfortable With
 
 - Python
 - NumPy, Pandas, Matplotlib
@@ -32,10 +32,10 @@ I enjoy learning by building, solving problems, and working with data to find us
 - AI workflows
 - Practical data science projects
 
-### A Little About My Approach
+### A Little More About Me
 
-I like simple ideas, clean code, and practical results.  
-I try to keep learning, keep improving, and build things that actually solve problems.
+I like clean code, simple ideas, and practical results.  
+I usually enjoy projects more when they solve a real problem and help me learn something new along the way.
 
 ### Connect With Me
 
