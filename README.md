@@ -10,11 +10,9 @@
 
 ### 💡 About Me
 
-I'm a 3rd-year Data Science student who genuinely enjoys learning by building. I spend a lot of my time training models on my local RTX 4060, finding patterns in data, and figuring out how to turn complex ideas into practical tools. 
+I'm a 3rd-year Data Science student who loves learning by building. Python is my absolute go-to language—I'm fluent in it and use it for almost everything I do. 
 
-I like clean code, simple ideas, and practical results. Lately, I've been diving deep into the world of Agentic AI and multi-agent orchestration. I usually enjoy projects more when they solve a real problem—whether that's building a multimodal semantic search tool like my *Lost & Found Helper*, or orchestrating APIs for a *Deep Research Compiler*.
-
-**When I'm not coding:** You can usually find me hitting the gym for some calisthenics, getting lost in classic literature (Dostoevsky and Kafka are favorites), or unwinding with a good campaign run in *Halo* or *Uncharted*. 
+Right now, my main focus is diving deep into AI, Machine Learning, and automation. I'm also really comfortable working with data and spend a lot of my time using core libraries like NumPy, Pandas, Matplotlib, and Scikit-learn to figure out how things work. 
 
 ---
 
@@ -23,11 +21,11 @@ I like clean code, simple ideas, and practical results. Lately, I've been diving
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
