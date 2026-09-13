@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Warm Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh%20Chakravarty!&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)%20%40%20SRM%20IST&descAlignY=55&descSize=20" alt="Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh%20Chakravarty!&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)&descAlignY=55&descSize=20" alt="Profile Banner" />
 
 <!-- Profile Views Badge -->
 <!-- Remember: Replace 'yourusername' with your actual GitHub username. It cannot contain underscores. -->
