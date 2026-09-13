@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Custom Warm Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)%20%40%20SRM%20IST&descAlignY=55&descSize=20" alt="Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh Chakravarty!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)%20%40%20SRM%20IST&descAlignY=55&descSize=20" alt="Profile Banner" />
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
+<!-- Profile Views Badge (Placeholder updated to avoid underscore error) -->
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
 
 ---
 
@@ -37,11 +37,11 @@ Right now, my main focus is diving deep into AI, Machine Learning, and automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -50,8 +50,8 @@ Right now, my main focus is diving deep into AI, Machine Learning, and automatio
 ### 📫 Let's Connect
 
 <p align="center">
-  <-- a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a -->
-  <a href="mailto:enjoy000987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- Footer Banner -->
