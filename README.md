@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh%20Chakravarty!&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)&descAlignY=55&descSize=20" alt="Profile Banner" />
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=SHIVESH89&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shivesh89&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
 
 ---
 
@@ -36,11 +36,11 @@ Right now, my main focus is diving deep into AI, Machine Learning, and automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SHIVESH89">
-    <img src="https://github-readme-stats.vercel.app/api?username=SHIVESH89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/shivesh89">
+    <img src="https://github-readme-stats.vercel.app/api?username=shivesh89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/SHIVESH89">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVESH89&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/shivesh89">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivesh89&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
