@@ -1,10 +1,10 @@
-<div align="center">
-
-<!-- Custom Warm Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=250&section=header&text=Hi,%20I'm%20Shivesh%20Chakravarty!&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)&descAlignY=55&descSize=20" alt="Profile Banner" />
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=SHIVESH89&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <!-- Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shivesh%20Chakravarty!&fontSize=50&fontAlignY=35&desc=B.Tech%20Computer%20Science%20(Data%20Science)&descAlignY=55&descSize=20" alt="Profile Banner" />
+  <br><br>
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=SHIVESH89&label=Profile%20Views&color=ff9f43&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -53,7 +53,7 @@ Right now, my main focus is diving deep into AI, Machine Learning, and automatio
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,f368e0,ff9f43&height=100&section=footer" alt="Footer Banner" />
-
-</div>
+<p align="center">
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" />
+</p>
